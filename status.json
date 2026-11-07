@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-07T22:31:52.830899+08:00",
+ "updated_at": "2026-11-07T22:46:47.907857+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -14,13 +14,13 @@
   },
   {
    "id": "home-router",
-   "status": "standby",
-   "note": "本次探查未通"
+   "status": "working",
+   "note": "在线 · 运行 35 天"
   },
   {
    "id": "home-disk",
    "status": "standby",
-   "note": "本次探查未通"
+   "note": "已挂载 · 3.6T"
   },
   {
    "id": "phone",
@@ -39,8 +39,8 @@
   },
   {
    "id": "corp-windows",
-   "status": "standby",
-   "note": "本次探查未通"
+   "status": "waiting",
+   "note": "在线 · 等活干"
   },
   {
    "id": "ubuntu-server",
@@ -54,8 +54,8 @@
   },
   {
    "id": "orca",
-   "status": "standby",
-   "note": "随公司 Windows 离线"
+   "status": "waiting",
+   "note": "已装 1.4.249 · 等任务"
   },
   {
    "id": "news",
@@ -79,10 +79,10 @@
   }
  ],
  "counts": {
-  "working": 3,
+  "working": 4,
   "deciding": 1,
-  "standby": 7,
-  "waiting": 3,
+  "standby": 4,
+  "waiting": 5,
   "empty": 1
  },
  "next_job": {
