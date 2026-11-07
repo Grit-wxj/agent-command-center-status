@@ -1,0 +1,96 @@
+{
+ "version": 1,
+ "updated_at": "2026-11-07T19:43:28.910587+08:00",
+ "desks": [
+  {
+   "id": "muse-control",
+   "status": "working",
+   "note": "状态同步运行中"
+  },
+  {
+   "id": "boss",
+   "status": "deciding",
+   "note": "等你拍板 6 件事"
+  },
+  {
+   "id": "home-router",
+   "status": "working",
+   "note": "在线 · 运行 35 天"
+  },
+  {
+   "id": "home-disk",
+   "status": "standby",
+   "note": "已挂载 · 3.6T"
+  },
+  {
+   "id": "phone",
+   "status": "standby",
+   "note": "无线调试未响应"
+  },
+  {
+   "id": "atoms3r",
+   "status": "waiting",
+   "note": "等你回按键测试"
+  },
+  {
+   "id": "k151",
+   "status": "empty",
+   "note": "还没买，等你拍板"
+  },
+  {
+   "id": "corp-windows",
+   "status": "waiting",
+   "note": "在线 · 等活干"
+  },
+  {
+   "id": "ubuntu-server",
+   "status": "standby",
+   "note": "本次探查未通"
+  },
+  {
+   "id": "corp-router",
+   "status": "standby",
+   "note": "待机 · 除非你开口不碰"
+  },
+  {
+   "id": "orca",
+   "status": "waiting",
+   "note": "已装 1.4.249 · 等任务"
+  },
+  {
+   "id": "news",
+   "status": "working",
+   "note": "第 231 轮 · 最近提醒 11-07 12:18"
+  },
+  {
+   "id": "jev",
+   "status": "working",
+   "note": "v6 影子 day2 11-07 21:00 · 高置信池 22/25"
+  },
+  {
+   "id": "premarket",
+   "status": "waiting",
+   "note": "下周一 11-09 21:30"
+  },
+  {
+   "id": "hot",
+   "status": "waiting",
+   "note": "每天 12:30 · 下次明日 12:30"
+  }
+ ],
+ "counts": {
+  "working": 4,
+  "deciding": 1,
+  "standby": 4,
+  "waiting": 5,
+  "empty": 1
+ },
+ "next_job": {
+  "label": "Jev v6 day2 对账",
+  "at": "2026-11-07T21:00:00+08:00"
+ },
+ "market": {
+  "spcx": 135.64,
+  "spcx_change_pct": 0.0102
+ }
+}
