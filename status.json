@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-08T21:05:27.135377+08:00",
+ "updated_at": "2026-11-08T21:16:40.574481+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -60,7 +60,7 @@
   {
    "id": "news",
    "status": "working",
-   "note": "第 237 轮 · 最近提醒 11-08 12:17"
+   "note": "第 238 轮 · 最近提醒 11-08 12:17"
   },
   {
    "id": "jev",
@@ -76,17 +76,32 @@
    "id": "hot",
    "status": "waiting",
    "note": "每天 12:30 · 下次明日 12:30"
+  },
+  {
+   "id": "simular-box",
+   "status": "working",
+   "note": "工作中 · 2 核云电脑"
+  },
+  {
+   "id": "colab-t4",
+   "status": "standby",
+   "note": "待机 · T4 GPU 临时算力"
+  },
+  {
+   "id": "kaggle-t4",
+   "status": "working",
+   "note": "工作中 · T4 GPU 会话"
   }
  ],
  "counts": {
-  "working": 4,
+  "working": 6,
   "deciding": 1,
-  "standby": 4,
+  "standby": 5,
   "waiting": 6
  },
  "next_job": {
-  "label": "一手消息快查",
-  "at": "2026-11-08T21:10:00+08:00"
+  "label": "安全日报",
+  "at": "2026-11-08T21:30:00+08:00"
  },
  "market": {
   "spcx": 135.64,
