@@ -1,1 +1,24 @@
-{"items":[{"desc":"两个决策辅助并行跑一周影子，只记录不进正式建议；一周后比对分歧与增值，再定谁留下。","loc":"每日岗 · 前排 — Jev 质检","title":"StartLux-Decision 与 Jev 并行影子一周"},{"desc":"2026-11-02 那篇 Muse 日记在 Notion 里留了残留条目：保留、合并进正篇、还是删掉，三选一。","loc":"调度中枢 — Muse 主控","title":"Notion 11-02 日记残留，三选一"},{"desc":"Jev 影子对账目前只跑 50 线补池、不验 60 线主线。60 线进生产前须另做验证，或者你明文豁免这一关。","loc":"每日岗 · 前排 — Jev 质检","title":"60 线进生产：先验证，还是你明文豁免"},{"desc":"Orca 已装在 gtit 上；桌面 App 双击打开时的确认界面长什么样、要不要就这么定，等你看一眼拍板。","loc":"公司 · 东区 — Orca 编排","title":"Orca 桌面 App 的双击确认界面"},{"desc":"gtit 上 Obsidian 已接通，库就在 D:\\Obsidian，Muse 文件夹已建好，只等你在 Obsidian 里选它为库。","loc":"公司 · 东区 — Obsidian","title":"Obsidian 里正式选 D:\\Obsidian 为库"}]}
+{
+ "items": [
+  {
+   "desc": "两个决策辅助并行跑一周影子，只记录不进正式建议；一周后比对分歧与增值，再定谁留下。",
+   "loc": "每日岗 · 前排 — Jev 质检",
+   "title": "StartLux-Decision 与 Jev 并行影子一周"
+  },
+  {
+   "desc": "2026-11-02 那篇 Muse 日记在 Notion 里留了残留条目：保留、合并进正篇、还是删掉，三选一。",
+   "loc": "调度中枢 — Muse 主控",
+   "title": "Notion 11-02 日记残留，三选一"
+  },
+  {
+   "desc": "Orca 已装在 gtit 上；桌面 App 双击打开时的确认界面长什么样、要不要就这么定，等你看一眼拍板。",
+   "loc": "公司 · 东区 — Orca 编排",
+   "title": "Orca 桌面 App 的双击确认界面"
+  },
+  {
+   "desc": "gtit 上 Obsidian 已接通，库就在 D:\\Obsidian，Muse 文件夹已建好，只等你在 Obsidian 里选它为库。",
+   "loc": "公司 · 东区 — Obsidian",
+   "title": "Obsidian 里正式选 D:\\Obsidian 为库"
+  }
+ ]
+}
