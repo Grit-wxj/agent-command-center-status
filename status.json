@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-08T23:46:46.875531+08:00",
+ "updated_at": "2026-11-09T00:01:49.714759+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -70,12 +70,12 @@
   {
    "id": "premarket",
    "status": "waiting",
-   "note": "下周一 11-09 21:30"
+   "note": "今日 21:30"
   },
   {
    "id": "hot",
    "status": "waiting",
-   "note": "每天 12:30 · 下次明日 12:30"
+   "note": "今日 12:30"
   },
   {
    "id": "simular-box",
