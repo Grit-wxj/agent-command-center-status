@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-08T21:01:49.255579+08:00",
+ "updated_at": "2026-11-08T21:05:27.135377+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -10,7 +10,7 @@
   {
    "id": "boss",
    "status": "deciding",
-   "note": "等你拍板 6 件事"
+   "note": "等你拍板 5 件事"
   },
   {
    "id": "home-router",
@@ -64,8 +64,8 @@
   },
   {
    "id": "jev",
-   "status": "working",
-   "note": "v6 影子 day3 11-08 21:00 · 高置信池 29/25"
+   "status": "waiting",
+   "note": "v6 影子已跑完 · 高置信池 40/25 · 等评估"
   },
   {
    "id": "premarket",
@@ -79,10 +79,10 @@
   }
  ],
  "counts": {
-  "working": 5,
+  "working": 4,
   "deciding": 1,
   "standby": 4,
-  "waiting": 5
+  "waiting": 6
  },
  "next_job": {
   "label": "一手消息快查",
