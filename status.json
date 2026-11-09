@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-10T07:02:03.717144+08:00",
+ "updated_at": "2026-11-10T07:16:48.076570+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -39,8 +39,8 @@
   },
   {
    "id": "corp-windows",
-   "status": "standby",
-   "note": "本次探查未通"
+   "status": "waiting",
+   "note": "在线 · 等活干"
   },
   {
    "id": "ubuntu-server",
@@ -54,8 +54,8 @@
   },
   {
    "id": "orca",
-   "status": "standby",
-   "note": "随公司 Windows 离线"
+   "status": "waiting",
+   "note": "已装 1.4.249 · 等任务"
   },
   {
    "id": "news",
@@ -96,15 +96,15 @@
  "counts": {
   "working": 6,
   "deciding": 1,
-  "standby": 7,
-  "waiting": 4
+  "standby": 5,
+  "waiting": 6
  },
  "next_job": {
   "label": "每日健康关注",
   "at": "2026-11-10T08:00:00+08:00"
  },
  "market": {
-  "spcx": 142.16,
-  "spcx_change_pct": 0.0006
+  "spcx": 142.28,
+  "spcx_change_pct": 0.0015
  }
 }
