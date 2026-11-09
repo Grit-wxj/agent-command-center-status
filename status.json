@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-10T01:46:51.098563+08:00",
+ "updated_at": "2026-11-10T02:01:47.463253+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -100,11 +100,11 @@
   "waiting": 6
  },
  "next_job": {
-  "label": "ASCS 免费机抢机",
-  "at": "2026-11-10T02:00:00+08:00"
+  "label": "一手消息快查",
+  "at": "2026-11-10T06:10:00+08:00"
  },
  "market": {
-  "spcx": 141.1,
-  "spcx_change_pct": -0.0001
+  "spcx": 141.07,
+  "spcx_change_pct": 0.0
  }
 }
