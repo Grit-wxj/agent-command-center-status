@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-09T14:16:59.287481+08:00",
+ "updated_at": "2026-11-09T14:20:04.146972+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -10,7 +10,7 @@
   {
    "id": "boss",
    "status": "deciding",
-   "note": "等你拍板 4 件事"
+   "note": "等你拍板 2 件事"
   },
   {
    "id": "home-router",
