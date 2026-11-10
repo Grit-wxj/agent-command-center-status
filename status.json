@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-10T18:31:48.291067+08:00",
+ "updated_at": "2026-11-10T18:47:43.777881+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -14,13 +14,13 @@
   },
   {
    "id": "home-router",
-   "status": "working",
-   "note": "在线 · 运行 38 天"
+   "status": "standby",
+   "note": "本次探查未通"
   },
   {
    "id": "home-disk",
    "status": "standby",
-   "note": "已挂载 · 3.6T"
+   "note": "本次探查未通"
   },
   {
    "id": "phone",
@@ -39,8 +39,8 @@
   },
   {
    "id": "corp-windows",
-   "status": "waiting",
-   "note": "在线 · 等活干"
+   "status": "standby",
+   "note": "本次探查未通"
   },
   {
    "id": "ubuntu-server",
@@ -54,8 +54,8 @@
   },
   {
    "id": "orca",
-   "status": "waiting",
-   "note": "已装 1.4.249 · 等任务"
+   "status": "standby",
+   "note": "随公司 Windows 离线"
   },
   {
    "id": "news",
@@ -94,17 +94,17 @@
   }
  ],
  "counts": {
-  "working": 6,
+  "working": 5,
   "deciding": 1,
-  "standby": 5,
-  "waiting": 6
+  "standby": 8,
+  "waiting": 4
  },
  "next_job": {
   "label": "一手消息快查",
   "at": "2026-11-10T21:10:00+08:00"
  },
  "market": {
-  "spcx": 141.85,
-  "spcx_change_pct": -0.0015
+  "spcx": 141.16,
+  "spcx_change_pct": -0.0064
  }
 }
