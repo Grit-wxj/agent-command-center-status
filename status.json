@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-10T13:01:54.879315+08:00",
+ "updated_at": "2026-11-10T13:16:48.120382+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -39,8 +39,8 @@
   },
   {
    "id": "corp-windows",
-   "status": "standby",
-   "note": "本次探查未通"
+   "status": "waiting",
+   "note": "在线 · 等活干"
   },
   {
    "id": "ubuntu-server",
@@ -54,8 +54,8 @@
   },
   {
    "id": "orca",
-   "status": "standby",
-   "note": "随公司 Windows 离线"
+   "status": "waiting",
+   "note": "已装 1.4.249 · 等任务"
   },
   {
    "id": "news",
@@ -96,8 +96,8 @@
  "counts": {
   "working": 6,
   "deciding": 1,
-  "standby": 7,
-  "waiting": 4
+  "standby": 5,
+  "waiting": 6
  },
  "next_job": {
   "label": "一手消息快查",
