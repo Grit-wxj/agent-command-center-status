@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-10T08:31:51.385366+08:00",
+ "updated_at": "2026-11-10T08:46:48.723300+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -14,13 +14,13 @@
   },
   {
    "id": "home-router",
-   "status": "standby",
-   "note": "本次探查未通"
+   "status": "working",
+   "note": "在线 · 运行 37 天"
   },
   {
    "id": "home-disk",
    "status": "standby",
-   "note": "本次探查未通"
+   "note": "已挂载 · 3.6T"
   },
   {
    "id": "phone",
@@ -94,9 +94,9 @@
   }
  ],
  "counts": {
-  "working": 5,
+  "working": 6,
   "deciding": 1,
-  "standby": 8,
+  "standby": 7,
   "waiting": 4
  },
  "next_job": {
@@ -104,7 +104,7 @@
   "at": "2026-11-10T08:54:00+08:00"
  },
  "market": {
-  "spcx": 142.29,
-  "spcx_change_pct": 0.0015
+  "spcx": 142.18,
+  "spcx_change_pct": 0.0008
  }
 }
