@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-11T21:16:48.642747+08:00",
+ "updated_at": "2026-11-11T21:31:46.331361+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -70,7 +70,7 @@
   {
    "id": "premarket",
    "status": "waiting",
-   "note": "今日 21:30"
+   "note": "周四 11-12 21:30"
   },
   {
    "id": "hot",
@@ -100,11 +100,11 @@
   "waiting": 6
  },
  "next_job": {
-  "label": "盘前播报",
-  "at": "2026-11-11T21:30:00+08:00"
+  "label": "Muse 日记",
+  "at": "2026-11-11T23:30:00+08:00"
  },
  "market": {
-  "spcx": 145.65,
-  "spcx_change_pct": 0.0179
+  "spcx": 144.89,
+  "spcx_change_pct": 0.0126
  }
 }
