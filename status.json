@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-14T23:46:47.004734+08:00",
+ "updated_at": "2026-11-15T00:01:48.884081+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -75,7 +75,7 @@
   {
    "id": "hot",
    "status": "waiting",
-   "note": "每天 12:30 · 下次明日 12:30"
+   "note": "今日 12:30"
   },
   {
    "id": "simular-box",
