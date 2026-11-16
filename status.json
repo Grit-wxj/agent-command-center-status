@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-16T23:46:51.322241+08:00",
+ "updated_at": "2026-11-17T00:01:48.970524+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -70,12 +70,12 @@
   {
    "id": "premarket",
    "status": "waiting",
-   "note": "周二 11-17 21:30"
+   "note": "今日 21:30"
   },
   {
    "id": "hot",
    "status": "waiting",
-   "note": "每天 12:30 · 下次明日 12:30"
+   "note": "今日 12:30"
   },
   {
    "id": "simular-box",
@@ -104,7 +104,7 @@
   "at": "2026-11-17T06:10:00+08:00"
  },
  "market": {
-  "spcx": 137.22,
-  "spcx_change_pct": -0.0002
+  "spcx": 137.09,
+  "spcx_change_pct": 0.0001
  }
 }
