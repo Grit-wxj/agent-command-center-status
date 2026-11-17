@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-18T02:46:48.933844+08:00",
+ "updated_at": "2026-11-18T03:01:48.717218+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -104,7 +104,7 @@
   "at": "2026-11-18T06:10:00+08:00"
  },
  "market": {
-  "spcx": 140.7,
-  "spcx_change_pct": 0.0
+  "spcx": 140.67,
+  "spcx_change_pct": 0.0004
  }
 }
