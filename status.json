@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-20T23:16:48.637144+08:00",
+ "updated_at": "2026-11-20T23:31:50.880756+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -100,11 +100,11 @@
   "waiting": 6
  },
  "next_job": {
-  "label": "Muse 日记",
-  "at": "2026-11-20T23:30:00+08:00"
+  "label": "一手消息快查",
+  "at": "2026-11-21T06:10:00+08:00"
  },
  "market": {
-  "spcx": 131.3,
-  "spcx_change_pct": 0.0
+  "spcx": 129.38,
+  "spcx_change_pct": 0.0002
  }
 }
