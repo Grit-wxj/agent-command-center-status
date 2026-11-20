@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-20T10:31:46.966496+08:00",
+ "updated_at": "2026-11-20T10:46:50.058090+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -14,13 +14,13 @@
   },
   {
    "id": "home-router",
-   "status": "working",
-   "note": "在线 · 运行 48 天"
+   "status": "standby",
+   "note": "本次探查未通"
   },
   {
    "id": "home-disk",
    "status": "standby",
-   "note": "已挂载 · 3.6T"
+   "note": "本次探查未通"
   },
   {
    "id": "phone",
@@ -94,9 +94,9 @@
   }
  ],
  "counts": {
-  "working": 7,
+  "working": 6,
   "deciding": 1,
-  "standby": 4,
+  "standby": 5,
   "waiting": 6
  },
  "next_job": {
