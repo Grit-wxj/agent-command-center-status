@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-26T11:16:46.326320+08:00",
+ "updated_at": "2026-11-26T11:31:45.264826+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -44,8 +44,8 @@
   },
   {
    "id": "ubuntu-server",
-   "status": "standby",
-   "note": "本次探查未通"
+   "status": "working",
+   "note": "在线 · 双站运行"
   },
   {
    "id": "corp-router",
@@ -94,9 +94,9 @@
   }
  ],
  "counts": {
-  "working": 6,
+  "working": 7,
   "deciding": 1,
-  "standby": 5,
+  "standby": 4,
   "waiting": 6
  },
  "next_job": {
