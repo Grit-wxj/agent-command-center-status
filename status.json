@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-26T21:46:45.673857+08:00",
+ "updated_at": "2026-11-26T22:01:55.214814+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -15,7 +15,7 @@
   {
    "id": "home-router",
    "status": "working",
-   "note": "在线 · 运行 ? 天"
+   "note": "在线 · 运行 1 天"
   },
   {
    "id": "home-disk",
