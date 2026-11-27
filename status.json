@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-27T08:47:06.454745+08:00",
+ "updated_at": "2026-11-27T09:01:48.853176+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -14,13 +14,13 @@
   },
   {
    "id": "home-router",
-   "status": "standby",
-   "note": "本次探查未通"
+   "status": "working",
+   "note": "在线 · 运行 1 天"
   },
   {
    "id": "home-disk",
    "status": "standby",
-   "note": "本次探查未通"
+   "note": "已挂载 · 3.6T"
   },
   {
    "id": "phone",
@@ -39,8 +39,8 @@
   },
   {
    "id": "corp-windows",
-   "status": "standby",
-   "note": "本次探查未通"
+   "status": "waiting",
+   "note": "在线 · 等活干"
   },
   {
    "id": "ubuntu-server",
@@ -54,8 +54,8 @@
   },
   {
    "id": "orca",
-   "status": "standby",
-   "note": "随公司 Windows 离线"
+   "status": "waiting",
+   "note": "已装 1.4.249 · 等任务"
   },
   {
    "id": "news",
@@ -94,14 +94,14 @@
   }
  ],
  "counts": {
-  "working": 5,
+  "working": 6,
   "deciding": 1,
-  "standby": 8,
-  "waiting": 4
+  "standby": 5,
+  "waiting": 6
  },
  "next_job": {
-  "label": "每日技术精读",
-  "at": "2026-11-27T08:54:00+08:00"
+  "label": "一手消息快查",
+  "at": "2026-11-27T09:10:00+08:00"
  },
  "market": {
   "spcx": 128.96,
