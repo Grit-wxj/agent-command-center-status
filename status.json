@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-28T15:01:57.178826+08:00",
+ "updated_at": "2026-11-28T15:16:47.238445+08:00",
  "desks": [
   {
    "id": "muse-control",
@@ -44,8 +44,8 @@
   },
   {
    "id": "ubuntu-server",
-   "status": "working",
-   "note": "在线 · 双站运行"
+   "status": "standby",
+   "note": "本次探查未通"
   },
   {
    "id": "corp-router",
@@ -60,7 +60,7 @@
   {
    "id": "news",
    "status": "working",
-   "note": "第 355 轮 · 最近提醒 11-28 12:16"
+   "note": "第 356 轮 · 最近提醒 11-28 12:16"
   },
   {
    "id": "jev",
@@ -94,14 +94,14 @@
   }
  ],
  "counts": {
-  "working": 7,
+  "working": 6,
   "deciding": 1,
-  "standby": 4,
+  "standby": 5,
   "waiting": 6
  },
  "next_job": {
   "label": "一手消息快查",
-  "at": "2026-11-28T15:10:00+08:00"
+  "at": "2026-11-28T18:10:00+08:00"
  },
  "market": {
   "spcx": 132.63,
